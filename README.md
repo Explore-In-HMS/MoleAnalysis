@@ -232,6 +232,6 @@ The resources used in the development of the project are as follows:
 * [HMS Toolkit ](https://developer.huawei.com/consumer/en/huawei-toolkit/)
 
 
-![GitHub](https://img.shields.io/github/license/Explore-In-HMS/MoleAnalysis?color=critical&label=license) 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![GitHub visitors](https://img.shields.io/badge/dynamic/json?color=red&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FExplore-In-HMS.Mole-Analysis%2Freadme)<br>
 Copyright © 2022 <br />
