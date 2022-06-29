@@ -4,11 +4,11 @@
   <p align="center">
     Mole Analysis Use Case for HMS ML Kit Custom Model
                    
-  [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Explore-In-HMS)
+  ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Explore-In-HMS)
   ![hms-2022](https://img.shields.io/badge/Project-2022-1f425f.svg?color=red)
  ![mindsporeLite](https://img.shields.io/badge/Mindspore-Lite-1f425f.svg)
-  [![hms-mlkit](https://img.shields.io/badge/HMS%20-MLKit-1f425f.svg?color=darkgreen)](https://developer.huawei.com/consumer/en/hms/huawei-mlkit/)
-  [![mlkit-custom](https://img.shields.io/badge/MLKit-Custom%20Model-1f425f.svg?color=green)]
+  ![hms-mlkit](https://img.shields.io/badge/HMS%20-MLKit-1f425f.svg?color=darkgreen)](https://developer.huawei.com/consumer/en/hms/huawei-mlkit/)
+  ![mlkit-custom](https://img.shields.io/badge/MLKit-Custom%20Model-1f425f.svg?color=green)]
   ![image-class](https://img.shields.io/badge/Image%20Classification-HMS%20AI%20Create-1f425f.svg?color=brightgreen)
   
  
