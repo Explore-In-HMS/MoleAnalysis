@@ -28,8 +28,8 @@
   <img src="https://github.com/Explore-In-HMS/MoleAnalysis/blob/main/images/MoleAnalysis.gif?raw=true"  />
 
 <p float="left">
-  <img src="https://github.com/Explore-In-HMS/MoleAnalysis/blob/main/images/left-mole.png" width="500" />
-   <img src="https://github.com/Explore-In-HMS/MoleAnalysis/blob/main/images/right-mole.png" width="500" />
+  <img src="https://github.com/Explore-In-HMS/MoleAnalysis/blob/main/images/left-mole.png" width="400" />
+   <img src="https://github.com/Explore-In-HMS/MoleAnalysis/blob/main/images/right-mole.png" width="400" />
 </p>
 
 </p>
