@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MoleAnalysis</string>
+
+    <string name="malignant">Malignant</string>
+    <string name="benign">Benign</string>
+
+
+
+    <string-array name="labels">
+
+        <item>@string/benign</item>
+        <item>@string/malignant</item>
+
+    </string-array>
+
+    <!-- Main -->
+    <string name="mole_header">Analyze Your Mole</string>
+    <string name="button_choose">Choose Picture</string>
+    <string name="button_run">Run</string>
+    <string name="result_header">Your Results:</string>
+    <string name="mlkit_text">Results are calculated with Huawei ML Kit Custom Model - Mindspore \n The results have the possibility of error. </string>
+    <string name="info_text"> You can get an idea of the symptoms of melanoma with the Mole Analysis app, but it\'s NOT a definitive diagnosis. We aim for early diagnosis despite its potential risk. We recommend that you CONSULT A DOCTOR about the results for a definitive diagnosis.</string>
+
+</resources>
