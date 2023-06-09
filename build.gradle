@@ -5,6 +5,7 @@ buildscript {
         mavenCentral()
         maven {url 'https://developer.huawei.com/repo/'}
     }
+    
     dependencies {
         classpath 'com.android.tools.build:gradle:7.0.2'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.20"
