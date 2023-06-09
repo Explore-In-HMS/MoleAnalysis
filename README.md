@@ -37,8 +37,6 @@
 </table>
                                                                                                      
 
-
-
 # Introduction
 
 ### What is Melanoma?
